@@ -4,7 +4,7 @@
 
 <div align="center">
     <h3>
-        <a href="https://junior2105.github.io/NTFCard-FrontEnd/" target="_blank">Live</a>
+        <a href="https://junior2105.github.io/NTFCard-FRONTEND/" target="_blank">Live</a>
         <span> | </span>
         <a href="https://www.frontendmentor.io/solutions/ntf-by-vjrx-IJLHnHnQj" target="_blank">Solution</a>
         <span> | </span>
