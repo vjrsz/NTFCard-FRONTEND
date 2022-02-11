@@ -4,9 +4,9 @@
 
 <div align="center">
     <h3>
-        <a href="" target="_blank">Live</a>
+        <a href="https://junior2105.github.io/QRCode-FRONTEND/" target="_blank">Live</a>
         <span> | </span>
-        <a href="" target="_blank">Solution</a>
+        <a href="https://www.frontendmentor.io/solutions/ntf-by-vjrx-IJLHnHnQj" target="_blank">Solution</a>
         <span> | </span>
         <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U" target="_blank">Challenge</a>
     </h3>
