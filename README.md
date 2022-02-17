@@ -28,8 +28,10 @@
 
 - [BORDER IN A .PNG](https://stackoverflow.com/questions/12690444/css-border-on-png-image-with-transparent-parts) - this helped me put the white border on the avatar. I really liked this pattern.
 
-## Author
-
-- Website - [ValterJr](https://github.com/junior2105/)
-- Frontend Mentor - [@VJr](https://www.frontendmentor.io/profile/junior2105)
-- Instagram - [@vjrx._](https://www.instagram.com/vjrx._/)
+<br><br>
+<h2 align="center">by Valter Junior</h2>
+<p align="center">
+<a href="https://www.instagram.com/vjrx._/"><img width=50 height=50 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/instagram/png%20(11).png"/></a>
+<a href="#"><img width=50 height=50 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/vjrx/png%20(1).png"/></a>
+<a href="https://www.frontendmentor.io/profile/junior2105"><img width=50 height=50 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/frontendmentor/png%20(2).png"/></a>
+</p>
